@@ -165,4 +165,4 @@ dist
 .env*
 !.env.example
 .wrangler/
-.DS_Store
+.DS_Store.DS_Store
